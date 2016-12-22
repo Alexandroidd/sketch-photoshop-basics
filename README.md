@@ -5,4 +5,5 @@
 To begin, download the free trials of both apps:
 
 -[Photoshop](https://creative.adobe.com/products/download/photoshop)
+
 -[Sketch](https://www.sketchapp.com/)
