@@ -134,9 +134,19 @@ Most companies have a style guide for their brand, which is shared with the desi
 
 Your best source for color information is this branding guideline - ask your designer if they can share it with you. If not, try and persuade your designer to send you whatever details they can. Failing that:
 
-**In Photoshop**, 
+**In Photoshop**, you'll use Shift+I again - they eyedropper tool is on the same tool as the ruler. Click anywhere on your comp to add it's color to the current pallete:
 
-**In Sketch**, 
+![Photoshop Color](img/photoshop-color.jpg)
+
+Double-clicking the color swatch opens up a window in which you can grab the hexidecimal value (or RGB if you intend to animate it with CSS)
+
+**In Sketch**, every object has an assigned color. When you click the object, it's color will appear in the right sidebar:
+
+![Sketch Color](img/sketch-color.jpg)
+
+Clicking the color opens a window where you can grab the hex and RGB values. Also, note the "Document Colors" section of the color popup - If you have a really good designer, they will have already added all the brand colors into this section, allowing you to grab all of them at once. 
+![We love good designers](https://media.giphy.com/media/P1y4PXwe3Es3C/giphy.gif)
+>> Protip: Be sure to pay them back by documenting your code!
 
 
 
