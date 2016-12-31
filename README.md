@@ -146,7 +146,30 @@ Double-clicking the color swatch opens up a window in which you can grab the hex
 
 Clicking the color opens a window where you can grab the hex and RGB values. Also, note the "Document Colors" section of the color popup - If you have a really good designer, they will have already added all the brand colors into this section, allowing you to grab all of them at once. 
 ![We love good designers](https://media.giphy.com/media/P1y4PXwe3Es3C/giphy.gif)
->> Protip: Be sure to pay them back by documenting your code!
+> Protip: Be sure to pay them back by documenting your code!
+
+## Fonts
+
+This one is pretty straightforward - use the text tool to select the text you're wondering about, and note it's family, weight, size, and lineheight.
+
+**In Photoshop**, press 'T' to select the Text Tool, then click inside the text you're curious about. Info about that font will appear in the top info bar:
+
+![Photoshop Color](img/photoshop-color.jpg)
+
+The 'Character' window will have even more details, like line-height and letter spacing (kerning, in Designer-speak). The only irrelivant detail pictured here is the field populated with 'sharp' - this is a menu of useless font variants that cannot be implemented with CSS. Feel free to ignore them.
+
+**In Sketch**, select the piece of text with the Move tool and the font info will show up in the right sidebar menu:
+
+![Sketch Fonts](img/sketch-fonts.jpg)
+
+Sketch was designed for web development, so all the informational field will be super useful and directly relevant to your CSS.
+
+> Protip: Sketch has a number of useful right-click menu options, including 'Copy CSS Attributes': ![Copy Style](img/copy-style.jpg)
+
+
+
+
+
 
 
 
