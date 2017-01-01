@@ -166,6 +166,46 @@ Sketch was designed for web development, so all the informational field will be 
 
 > Protip: Sketch has a number of useful right-click menu options, including 'Copy CSS Attributes': ![Copy Style](img/copy-style.jpg)
 
+## Exporting Images
+
+This is by far the most nuanced part of the proccess - exporting images. You'll be walking a very thin line between high-quality images and small file sizes. Here's some general guidelines:
+
+### Cropping:
+Choose the exact layer your image is on, and only export what you need - trim the object so that there's no needless whitespace or other objects attached to it.
+
+### Format:
+
+#### Rasterized: 
+
+- JPG = Use for photographs only. These tend to be much higher file sizes, as the format was created to specifically reproduce highly complex digital camera images.
+
+- PNG = Standard for most icons/graphics. Has background opacity, so that circular/non-square icons do not have a solid color background, but instead pick up the color of whatever is behind it
+
+- GIF = Not used for much anymore. [Except for animated gifs, of course](https://media.giphy.com/media/Y8ocCgwtdj29O/giphy.gif).
+
+#### Vector:
+
+- SVG = Best for vector art of any kind. Can be scaled infintely.
+
+- SVG Code = The greatest thing ever. Can't be directly exported from Sketch, but developers can open .SVG files in their code editors to grab it. Same benefits as SVG, but can also be manipulated with CSS and JavaScript.
+
+### Size:
+
+#### Rasterized:
+
+1x = Normal size. Exactly how it is in the artboard.
+
+2x = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina images - the developer will then use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
+
+#### Vector:
+
+Vector images like SVGs are not affected by size - they're infinitely scalable.
+
+## What should I name it?
+- **Something logical.** The name should tell you what the image is without opening it.
+- **No Version numbers.** Don't make developers compare versions, that's your job. Also, version numbers make for bad, inspecific code.
+- **No Spaces.** Spaces are hard to recreate in code. It will almost always cause some kind of error. 
+
 
 
 
