@@ -212,7 +212,7 @@ Vector images like SVGs are not affected by size - they're infinitely scalable.
 
 **In Photoshop**, you'll need to use the 'Save for Web' feature. Photoshop has cleverly hidden this feature to the point of near non-existence despite it being neccessary to export images, so press Shift+Option+Command+S to summon it back into existance. You'll be greeted with several menus to tweak your export:
 
-!(Save For Web)[img/save-for-web.jpg]
+![Save For Web](img/save-for-web.jpg)
 
 ## I still don't know what I'm doing
 
