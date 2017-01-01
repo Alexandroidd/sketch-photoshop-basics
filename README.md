@@ -218,7 +218,7 @@ Vector images like SVGs are not affected by size - they're infinitely scalable.
 
 I know. Photoshop and Sketch are incredibly rich, deep programs with steep learning curves. **However**, this brief lesson has given you a considerable leg-up to other bootcamp grads who will never even open these programs - until they're asked to on the job. Take some time before your trials expire to familiarize yourself with these programs as much as possible, and you might very well be the only full-stack developer in your company to know how to interface with designers and their tool kit. 
 
-[Knowledge is Power](https://media.giphy.com/media/25zgIuLU50ESY/giphy.gif)
+![Knowledge is Power](https://media.giphy.com/media/25zgIuLU50ESY/giphy.gif)
 
 
 
