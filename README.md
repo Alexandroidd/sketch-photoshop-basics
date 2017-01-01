@@ -201,13 +201,24 @@ Choose the exact layer your image is on, and only export what you need - trim th
 
 Vector images like SVGs are not affected by size - they're infinitely scalable.
 
-## What should I name it?
+### What should I name it?
 - **Something logical.** The name should tell you what the image is without opening it.
-- **No Version numbers.** Don't make developers compare versions, that's your job. Also, version numbers make for bad, inspecific code.
+- **No Version numbers.** Don't put yourself in a position where you and your peers aren't sure which image is 'approved'.
 - **No Spaces.** Spaces are hard to recreate in code. It will almost always cause some kind of error. 
 
+**In Sketch**, there is an 'Export' button on the very bottom right of the screen - click the object you want to export, set the neccessary fields, then click 'Export':
 
+![Sketch Export](img/sketch-export.jpg)
 
+**In Photoshop**, you'll need to use the 'Save for Web' feature. Photoshop has cleverly hidden this feature to the point of near non-existence despite it being neccessary to export images, so press Shift+Option+Command+S to summon it back into existance. You'll be greeted with several menus to tweak your export:
+
+!(Save For Web)[img/save-for-web.jpg]
+
+## I still don't know what I'm doing
+
+I know. Photoshop and Sketch are incredibly rich, deep programs with steep learning curves. **However**, this brief lesson has given you a considerable leg-up to other bootcamp grads who will never even open these programs - until they're asked to on the job. Take some time before your trials expire to familiarize yourself with these programs as much as possible, and you might very well be the only full-stack developer in your company to know how to interface with designers and their tool kit. 
+
+[Knowledge is Power](https://media.giphy.com/media/25zgIuLU50ESY/giphy.gif)
 
 
 
