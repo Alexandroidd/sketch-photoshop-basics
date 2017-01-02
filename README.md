@@ -124,7 +124,7 @@ Clicking and dragging will now draw a line that measure an exact distance - you 
 
 ![Measurement Results](img/measurement-results.jpg)
 
-**In Sketch**, simply click the object you want to measure and its size is displayed in the right sidebar menu:
+**In Sketch**, simply click the object you want to measure, and it's size is displayed in the right sidebar menu:
 
 ![Sketch Size](img/sketch-size.jpg)
 
@@ -136,7 +136,7 @@ Most companies have a style guide for their brand, which is shared with the desi
 
 Your best source for color information is this branding guideline - ask your designer if they can share it with you. If not, try and persuade your designer to send you whatever details they can. Failing that:
 
-**In Photoshop**, you'll use Shift+I again - they eyedropper tool is on the same tool as the ruler. Click anywhere on your comp to add it's color to the current pallete:
+**In Photoshop**, you'll use Shift+I again - they eyedropper tool is on the same tool as the ruler. Click anywhere on your comp to add it's color to the current swatch:
 
 ![Photoshop Color](img/photoshop-color.jpg)
 
@@ -156,7 +156,7 @@ This one is pretty straightforward - use the text tool to select the text you're
 
 **In Photoshop**, press 'T' to select the Text Tool, then click inside the text you're curious about. Info about that font will appear in the top info bar:
 
-![Photoshop Color](img/photoshop-color.jpg)
+![Photoshop Color](img/photoshop-fonts.jpg)
 
 The 'Character' window will have even more details, like line-height and letter spacing (kerning, in Designer-speak). The only irrelivant detail pictured here is the field populated with 'sharp' - this is a menu of useless font variants that cannot be implemented with CSS. Feel free to ignore them.
 
