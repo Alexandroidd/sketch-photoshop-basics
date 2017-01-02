@@ -78,14 +78,16 @@ In both programs, holding the spacebar will turn your cursor to a little hand. N
 
 ### Zooming In and Out
 
-**In Photoshop**, Command+Spacebar Turns your cursor to a Zoom-in tool; Command+Option+Spacebar turns it to a Zoom-out tool. Click to use. You can also use it by pressing "Z" or choosing the magnifying glass from the left menu.
+**In Photoshop**, Command+Spacebar turns your cursor to a Zoom-in tool; Command+Option+Spacebar turns it to a Zoom-out tool. Click to use. You can also use it by pressing "Z" or choosing the magnifying glass from the left menu.
 
 **In Sketch**, hold command and use your mouse wheel (two finger scroll on a trackpad). You can also activate it by holding "Z" and drawing a box around the area you want to zoom in on. 
 
 ### Layers and Groups
 
 Both programs are layer-based editors. Remember the transparent sheets of plastic paper used for overhead projectors in grade school? 
+
 ![Overhead Projector Transparencies](https://www.enasco.com/prod/images/products/BD/AC092497l.jpg)
+
 Sketch and Photoshop files are basically dozens of these transparencies stacked on top of eachother, each sheet being called a 'layer'. 
 
 **In Photoshop**, they're generally on the bottom right of the right sidebar:
