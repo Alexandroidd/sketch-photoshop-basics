@@ -164,13 +164,13 @@ The 'Character' window will have even more details, like line-height and letter 
 
 ![Sketch Fonts](img/sketch-fonts.jpg)
 
-Sketch was designed for web development, so all the informational field will be super useful and directly relevant to your CSS.
+Sketch was designed for web development, so all the info displayed in these fields will be directly relevant to your CSS.
 
 > Protip: Sketch has a number of useful right-click menu options, including 'Copy CSS Attributes': ![Copy Style](img/copy-style.jpg)
 
 ## Exporting Images
 
-This is by far the most nuanced part of the proccess - exporting images. You'll be walking a very thin line between high-quality images and small file sizes. Here's some general guidelines:
+This is by far the most nuanced part of the proccess. There are many competing concepts of best practices, and no true right or wrong answers - you'll be walking a very thin line between high-quality images and small file sizes. Here's some general guidelines:
 
 ### Cropping:
 Choose the exact layer your image is on, and only export what you need - trim the object so that there's no needless whitespace or other objects attached to it.
