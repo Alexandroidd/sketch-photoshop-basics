@@ -189,11 +189,11 @@ Rasterized images are images most images on the web - they exist as an unscalabl
 
 #### Vector:
 
-Vector images are 'math objects' - they are not pixels, but instead a series of mathimatical coordinates declaring a shape. Because of this, they can be blown up to billboard size with no drop in quality. They're also extremely small in terms of file size, so use them whenever you can.
+Vector images are 'math objects' - they are not pixels, but instead a series of mathimatical coordinates declaring a shape. Because of this, they can be blown up to billboard-size with no drop in quality. They're also extremely small in terms of file size, so use them whenever you can.
 
 - SVG = Best for vector art of any kind. Can be scaled infintely.
 
-- SVG Code = The greatest thing ever. Can't be directly exported from Sketch, but developers can open .SVG files in their code editors to grab it. Same benefits as SVG, but can also be manipulated with CSS and JavaScript.
+- SVG Code = The greatest thing ever. Can't be directly exported from Sketch, but **can be opened in a code editor to reveal the actual shape code**. Same benefits as SVG, but can also be manipulated with CSS and JavaScript.
 
 ### Size:
 
@@ -201,13 +201,14 @@ Vector images are 'math objects' - they are not pixels, but instead a series of 
 
 1x = Normal size. Exactly how it is in the artboard.
 
-2x = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina images - the developer will then use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
+2x (retina) = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina images - use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
 
 #### Vector:
 
 Vector images like SVGs are not affected by size - they're infinitely scalable.
 
-### What should I name it?
+### What should I name my image?
+
 - **Something logical.** The name should tell you what the image is without opening it.
 - **No Version numbers.** Don't put yourself in a position where you and your peers aren't sure which image is 'approved'.
 - **No Spaces.** Spaces are hard to recreate in code. It will almost always cause some kind of error. 
@@ -216,7 +217,7 @@ Vector images like SVGs are not affected by size - they're infinitely scalable.
 
 ![Sketch Export](img/sketch-export.jpg)
 
-**In Photoshop**, you'll need to use the 'Save for Web' feature. Photoshop has cleverly hidden this feature to the point of near non-existence despite it being neccessary to export images, so press Shift+Option+Command+S to summon it back into existance. You'll be greeted with several menus to tweak your export:
+**In Photoshop**, you'll need to use the 'Save for Web' feature. Photoshop has cleverly hidden this feature to the point of near non-existence despite it being neccessary to export images, so press Shift+Option+Command+S to summon it from the grave. You'll be greeted with several menus to tweak your export:
 
 ![Save For Web](img/save-for-web.jpg)
 
