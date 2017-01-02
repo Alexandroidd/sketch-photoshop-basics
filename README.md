@@ -101,18 +101,18 @@ In these menus, you can turn the layers on and off, rearrange them, group them, 
 
 ## Measuring
 
-When creating a site from a comp, it's **crucial** that you start by measuring the size of the page and its elements. Keep in mind that **many working designers do not not understand responsive design** and will make 'best case scenario' comps that neglect or ignore development neccesities. It is an extreme pain in the ass to change the size of page elements after you've contructed your frontend - so begin every project by answering these questions, asking designers, project managers, and even clients when neccessary:
+When creating a site from a comp, it's **crucial** that you start by measuring the size of the page and its elements. Keep in mind that **many working designers do not not understand responsive design** and will make 'best case scenario' comps that neglect or ignore development neccesities. It is an extreme pain in the ass to change the size of page elements after you've contructed your frontend - so begin every project by answering these questions; by asking designers, project managers, and even clients when neccessary:
 
 1. What happens on a screen larger than the provided comp? 
-	a. Do all elements stretch, or only some?
-	b. Is there a max-width you want to set, in the case of TV-sized screens?
-	c. Do you have photography/graphics that are high enough resolution to support your max size?
+	* Do all elements stretch, or only some?
+	* Is there a max-width you want to set, in the case of TV-sized screens?
+	* Do you have photography/graphics that are high enough resolution to support your max size?
 
 2. What happens on screens smaller than the provided comp?
-	a. At what point do horizontally-lined elements begin to stack?
-	b. Does any content dissapear at smaller sizes?
-	c. Will you need different crops of your images for small screens?
-	d. Is there a min-width for your page, or any elements?
+	* At what point do horizontally-lined elements begin to stack?
+	* Does any content dissapear at smaller sizes?
+	* Will you need different crops of your images for small screens?
+	* Is there a min-width for your page, or any elements?
 
 Your client/designer will either have answers to these questions, or they'll need to get them to you. **Starting your work before these questions are answered will almost certainly result in costly rework.** Clients can be defensive of billing the extra hours needed to answer questions they see as 'obvious', and they may pressure you to start without all the info you need - if this is the case, do your best to explain that starting a website build without accurate measurements is the same as starting construciton on a blueprint without any labeled sizes on it. If they wouldn't guess with a physical building, you shouldn't for a website either. 
 
