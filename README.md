@@ -64,7 +64,7 @@ Both Sketch and Photoshop have a default "Move" tool - it allows you to grab obj
 
 **In Photoshop**, press "V". You can also select it from the left tool menu:
 
-![Move Tool](img/move-tool.jpg =x100)
+![Move Tool](img/move-tool.jpg =100x20)
 
 **In Sketch**, the move tool is toggled between each keypress. For instance, if you press "T" repeadedly, you toggle between the text tool and the move tool. There is no button to take you directly to the move tool, as Sketch recognizes it as a true default state. This can take a while to get the hang of.
 
