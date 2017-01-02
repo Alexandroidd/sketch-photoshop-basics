@@ -177,7 +177,9 @@ Choose the exact layer your image is on, and only export what you need - trim th
 
 ### Format:
 
-#### Rasterized: 
+#### Rasterized:
+
+Rasterized images are images most images on the web - they exist as an unscalable grouping of colored pixels. Stretching the image larger makes the colored pixels larger, not the image - so only use rasterized image whey you have to (i.e., photography). 
 
 - JPG = Use for photographs only. These tend to be much higher file sizes, as the format was created to specifically reproduce highly complex digital camera images.
 
@@ -186,6 +188,8 @@ Choose the exact layer your image is on, and only export what you need - trim th
 - GIF = Not used for much anymore. [Except for animated gifs, of course](https://media.giphy.com/media/Y8ocCgwtdj29O/giphy.gif).
 
 #### Vector:
+
+Vector images are 'math objects' - they are not pixels, but instead a series of mathimatical coordinates declaring a shape. Because of this, they can be blown up to billboard size with no drop in quality. They're also extremely small in terms of file size, so use them whenever you can.
 
 - SVG = Best for vector art of any kind. Can be scaled infintely.
 
